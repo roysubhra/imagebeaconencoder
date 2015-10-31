@@ -1,2 +1,3 @@
-# imagebeaconencoder
-Image Beacon Encoder
+# Image Beacon Encoder
+Execute mvn test to see the results.
+
